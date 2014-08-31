@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PiModulos.PrjPCB]
+   Generated File[PiModulos.TXT]
+   Generated File[PiModulos.LDP]
+   Generated File[PiModulos.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:17:05 AM On 8/25/2014

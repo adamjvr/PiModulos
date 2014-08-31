@@ -1,0 +1,147 @@
+Added Component: Designator=BATTERY(BAT-2)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(C1206)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(C1206)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C15(C1206)
+Added Component: Designator=D1(DO-35)
+Added Component: Designator=D2(DO-35)
+Added Component: Designator=D3(DO-35)
+Added Component: Designator=D4(DO-35)
+Added Component: Designator=DC_JACK(HDR1X2)
+Added Component: Designator=EM_SW1(HDR1X2)
+Added Component: Designator=EM_SW2(HDR1X2)
+Added Component: Designator=IN_JACK(HDR1X3)
+Added Component: Designator=MIDS(HDR1X2)
+Added Component: Designator=OUT_JACK(HDR1X2)
+Added Component: Designator=Q1(TO-92A)
+Added Component: Designator=Q2(TO-92A)
+Added Component: Designator=Q3(TO-92A)
+Added Component: Designator=Q4(TO-92A)
+Added Component: Designator=SUSTAIN(HDR1X3)
+Added Component: Designator=SW_P1(HDR1X3)
+Added Component: Designator=SW_P2(HDR1X3)
+Added Component: Designator=TN_SW1(HDR1X3)
+Added Component: Designator=TN_SW2(HDR1X3)
+Added Component: Designator=TONE(HDR1X3)
+Added Component: Designator=VOLUME(HDR1X3)
+Added Pin To Net: NetName=9VCC Pin=BATTERY-1
+Added Net: Name=9VCC
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=DC_JACK-1
+Added Pin To Net: NetName=GND Pin=EM_SW1-2
+Added Pin To Net: NetName=GND Pin=EM_SW2-2
+Added Pin To Net: NetName=GND Pin=IN_JACK-1
+Added Pin To Net: NetName=GND Pin=OUT_JACK-2
+Added Pin To Net: NetName=GND Pin=VOLUME-1
+Added Net: Name=GND
+Added Pin To Net: NetName=INPUT Pin=IN_JACK-2
+Added Pin To Net: NetName=INPUT Pin=SW_P1-2
+Added Net: Name=INPUT
+Added Pin To Net: NetName=NetBATTERY_2 Pin=BATTERY-2
+Added Pin To Net: NetName=NetBATTERY_2 Pin=IN_JACK-3
+Added Net: Name=NetBATTERY_2
+Added Pin To Net: NetName=NetC1_1 Pin=C10-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q4-2
+Added Net: Name=NetC1_1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=Q1-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=VOLUME-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=TN_SW2-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=Q1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C10-2
+Added Pin To Net: NetName=NetC4_1 Pin=Q4-3
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=SUSTAIN-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=SUSTAIN-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=D3-2
+Added Pin To Net: NetName=NetC6_1 Pin=D4-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C12-1
+Added Pin To Net: NetName=NetC6_2 Pin=Q3-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=D1-2
+Added Pin To Net: NetName=NetC7_1 Pin=D2-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C11-1
+Added Pin To Net: NetName=NetC7_2 Pin=Q2-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=TONE-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C15-1
+Added Pin To Net: NetName=NetC9_1 Pin=TN_SW1-3
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=MIDS-1
+Added Pin To Net: NetName=NetC9_2 Pin=TONE-3
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D1-1
+Added Pin To Net: NetName=NetC11_2 Pin=D2-2
+Added Pin To Net: NetName=NetC11_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC11_2 Pin=TN_SW1-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=C13-1
+Added Pin To Net: NetName=NetC12_2 Pin=D3-1
+Added Pin To Net: NetName=NetC12_2 Pin=D4-2
+Added Pin To Net: NetName=NetC12_2 Pin=Q3-3
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=MIDS-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetDC_JACK_2 Pin=DC_JACK-2
+Added Net: Name=NetDC_JACK_2
+Added Pin To Net: NetName=NetEM_SW1_1 Pin=EM_SW1-1
+Added Pin To Net: NetName=NetEM_SW1_1 Pin=Q4-1
+Added Net: Name=NetEM_SW1_1
+Added Pin To Net: NetName=NetEM_SW2_1 Pin=EM_SW2-1
+Added Pin To Net: NetName=NetEM_SW2_1 Pin=Q3-1
+Added Net: Name=NetEM_SW2_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetR2_2 Pin=SW_P1-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR23_2 Pin=SUSTAIN-1
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetSW_P2_1 Pin=SW_P2-1
+Added Pin To Net: NetName=NetSW_P2_1 Pin=VOLUME-2
+Added Net: Name=NetSW_P2_1
+Added Pin To Net: NetName=NetTN_SW1_1 Pin=TN_SW1-1
+Added Pin To Net: NetName=NetTN_SW1_1 Pin=TN_SW2-3
+Added Net: Name=NetTN_SW1_1
+Added Pin To Net: NetName=NetTN_SW2_1 Pin=TN_SW2-1
+Added Pin To Net: NetName=NetTN_SW2_1 Pin=TONE-2
+Added Net: Name=NetTN_SW2_1
+Added Pin To Net: NetName=OUTPUT Pin=OUT_JACK-1
+Added Pin To Net: NetName=OUTPUT Pin=SW_P2-2
+Added Net: Name=OUTPUT
+Added Pin To Net: NetName=TRU_BYPASS Pin=SW_P1-1
+Added Pin To Net: NetName=TRU_BYPASS Pin=SW_P2-3
+Added Net: Name=TRU_BYPASS
+Added Class: Name=PiModulos
+Added Room: Name=PiModulos

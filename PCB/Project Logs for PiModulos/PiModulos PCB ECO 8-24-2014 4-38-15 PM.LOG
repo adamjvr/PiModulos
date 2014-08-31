@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetTN_SW1_1 Pin=TN_SW1-1
+Added Component: Designator=R1(SM 0805 - gap trimmed)
+Added Pin To Net: NetName=NetTN_SW1_1 Pin=R1-1
+Change Net Name : Old Net Name=NetTN_SW1_1 New Net Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=TN_SW1-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=PiModulos Member=Component R1 0805
