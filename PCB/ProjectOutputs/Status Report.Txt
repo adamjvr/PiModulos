@@ -1,12 +1,19 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [PiModulos.PrjPCB]
-   Generated File[PiModulos.TXT]
-   Generated File[PiModulos.LDP]
-   Generated File[PiModulos.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PiModulos.PrjPCB]
+   Generated File[PiModulos.GTL]
+   Generated File[PiModulos.GBL]
+   Generated File[PiModulos.GTO]
+   Generated File[PiModulos.GTS]
+   Generated File[PiModulos.GBS]
+   Generated File[PiModulos.GBO]
+   Generated File[PiModulos.GKO]
+   Generated File[PiModulos.RUL]
+   Generated File[PiModulos.EXTREP]
+   Generated File[PiModulos.REP]
 
 
-Files Generated   : 3
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 3:17:05 AM On 8/25/2014
+Finished Output Generation At 9:36:59 AM On 3/22/2015

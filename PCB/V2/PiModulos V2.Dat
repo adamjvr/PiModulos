@@ -1,0 +1,21 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PiModulos V2.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\PiModulos\PCB\V2\PiModulos V2.PrjPcb|ReportField=Title~Bill of Materials For Project [PiModulos V2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~59|ReportField=ReportTime~5:06:47 PM|ReportField=ReportDate~5/9/2016|ReportField=ReportDateTime~5/9/2016 5:06:47 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~5/9/2016|ReportField=CurrentTime~5:06:45 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\PiModulos\PCB\V2\PiModulos V2 - Mayonaise.SchDoc|ReportField=DocumentName~PiModulos V2 - Mayonaise.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~5/9/2016|ReportField=Organization~|ReportField=ProjectName~PiModulos V2.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PiModulos V2.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\PiModulos\PCB\V2\PiModulos V2.PrjPcb
+1|0.1uF|CAP ALUM 0.1UF 20% 100V RADIAL|C1, C2, C3, C4, C5, C6, C7, C8, C13|5X12.5mmCAP|UFG2A0R1MDM1TD|9
+2|4000pF|Ceramic Disc Capacitors .25LS 4000PF 300V 20%|C9, C14|30LVD40-R|30LVD40-R|2
+3|560pF|560pF ±5% 50V C0G, NP0 Ceramic Capacitor -55°C ~ 125°C Surface Mount, MLCC 0805 (2012 Metric) 0.079" L x 0.049" W (2.00mm x 1.25mm|C10, C11, C12|C0805|CL21C561JBANNNC|3
+4|1N914BTR|DIODE GEN PURP 100V 200MA DO35|D1, D2, D3, D4|DO-35|1N914BTR|4
+5|Header 2|Header, 2-Pin|P1, P3, P6, P7, P9, P10|HDR1X2|Header 2|6
+6|Header 3X2|Header, 3-Pin, Dual row|P2|HDR2X3|Header 3X2|1
+7|Header 3|Header, 3-Pin|P4, P5, P8|HDR1X3|Header 3|3
+8|2N3904|TRANS NPN 40V 0.2A TO-92|Q1, Q2, Q3, Q4|TO-92A|2N3904TF|4
+9|1.2K|RES SMD 1.2K OHM 1% 1/8W 0805|R1, R23|R0805|ERJ-6ENF1201V|2
+10|33K|RES SMD 33K OHM 1% 1/8W 0805|R2, R5, R8|R0805|ERJ-6ENF3302V|3
+11|100K|RES SMD 100K OHM 1% 1/8W 0805|R3, R14, R16, R20|R0805|ERJ-6ENF1003V|4
+12|2.7K|RES SMD 2.7K OHM 1% 1/8W 0805|R4|R0805|RC2012F272CS|1
+13|10K|RES SMD 10K OHM 1% 1/8W 0805|R6, R18|R0805|ERJ-6ENF1002V|2
+14|390K|RES SMD 390K OHM 1% 1/8W 0805|R7|R0805|ERJ-6ENF3903V|1
+15|470K|RES SMD 470K OHM 1% 1/8W 0805|R9, R15, R17|R0805|ERJ-6ENF4703V|3
+16|100r|RES SMD 100 OHM 1% 1/8W 0805|R10, R21, R22|R0805|CRCW0805100RFKEA|3
+17|18K|RES SMD 18K OHM 1% 1/8W 0805|R11, R13|R0805|ERJ-6ENF1802V|2
+18|8.2K|RES SMD 8.2K OHM 1% 1/8W 0805|R12, R19|R0805|RC2012F822CS|2
+19|100K|POT 100K OHM 1/20W PLASTIC LIN|R24, R25, R26|P0915N-FC15BR100K|P0915N-FC15BR100K|3
+20|150K|RES SMD 150K OHM 1% 1/8W 0805|R27|R0805|RC2012F154CS|1

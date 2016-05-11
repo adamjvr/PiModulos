@@ -1,5 +1,0 @@
-Added Component: Designator=R5(SM 0805 - gap trimmed)
-Added Pin To Net: NetName=GND Pin=R5-1
-Added Pin To Net: NetName=NetC9_2 Pin=R5-2
-Added Member To Class: ClassName=PiModulos Member=Component R5 0805
-Added Room: Name=PiModulos
